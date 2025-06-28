@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#8864e4</color>
-    <color name="colorPrimaryDark">#1a1a1a</color>
-    <color name="colorAccent">#8181a8</color>
+    <!-- Material Theme Colors -->
+    <color name="colorPrimary">#00796B</color> <!-- Teal -->
+    <color name="colorPrimaryVariant">#004D40</color> <!-- Darker Teal -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <color name="colorSecondary">#FFC107</color> <!-- Amber -->
+    <color name="colorSecondaryVariant">#FFA000</color> <!-- Darker Amber -->
+    <color name="colorOnSecondary">#000000</color>
+
+    <color name="colorBackground">#F5F5F5</color> <!-- Light Grey for background -->
+    <color name="colorSurface">#FFFFFF</color> <!-- White for surfaces like Cards -->
+    <color name="colorError">#B00020</color>
+
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorOnError">#FFFFFF</color>
+
+    <!-- Original App Colors (keeping them for now, might be used in specific places) -->
+    <!-- <color name="colorPrimaryOld">#8864e4</color> -->
+    <!-- <color name="colorPrimaryDarkOld">#1a1a1a</color> -->
+    <!-- <color name="colorAccentOld">#8181a8</color> -->
     <color name="blue">#0033CC</color>
     <color name="orange">#FF9900</color>
     <color name="color_esp_logo">#CA1627</color>
@@ -16,11 +34,10 @@
     <color name="color_text_off">#CA1627</color>
     <color name="color_err_text">#FF3B30</color>
 
-    <!-- New colors -->
-
+    <!-- Original "New colors" section -->
     <color name="color_border">#f2f1fc</color>
     <color name="color_text">#1a1a1a</color>
-    <color name="color_background">#f6f6fb</color>
+    <!-- <color name="color_background">#f6f6fb</color> --> <!-- Replaced by colorBackground -->
     <color name="color_orange">#ff5207</color>
     <color name="color_text_secondary">#8181a8</color>
     <color name="color_remove">#ffeee6</color>
