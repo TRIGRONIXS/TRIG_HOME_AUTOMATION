@@ -1,5 +1,5 @@
 [versions]
-gradle = "8.4.2"
+gradle = "8.2.1"
 kotlinGradlePlugin = "2.0.0"
 lifecycleViewmodelKtx = "2.8.7"
 playServicesGcm = "17.0.0"
